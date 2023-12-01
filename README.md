@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ZeskooV
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning LUA & NextJS
-- 📫 How to reach me Contact me via discord.
+- 🌱 I’m currently learning LUA, NextJS & PHP.
+- 📫 You can reach me via discord.
+- 😜 You're feel free to use my code and ask me things.
 
 
 - Current Discord Status
